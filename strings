@@ -12,3 +12,10 @@
  mystring = "Hello World"
  mystring[0] // index grabbing
  mystring[2]
+ mystring[-2] // reverse index grabbing
+ 
+ myslice = "string"
+ myslice[2:0] // starts and 'r' and prints to EOF
+ myslice[:3] // up to but not including
+ 
+ 
