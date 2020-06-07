@@ -19,3 +19,8 @@
  myslice[:3] // up to but not including
  myslice[::] // start to finish
  myslice[::2] // step size
+
+
+name = "Sam" //reassign
+lastLetter[1:]
+"P" + lastLetter
