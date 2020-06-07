@@ -17,5 +17,5 @@
  myslice = "string"
  myslice[2:0] // starts and 'r' and prints to EOF
  myslice[:3] // up to but not including
- 
- 
+ myslice[::] // start to finish
+ myslice[::2] // step size
