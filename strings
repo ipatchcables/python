@@ -1,0 +1,14 @@
+ a = 5
+ a = 10
+ a = a + a
+ 
+ type(3)
+ type("String")
+ 
+ 
+ print("hello /nworld") // standard escaping
+ len("sting") //length
+ 
+ mystring = "Hello World"
+ mystring[0] // index grabbing
+ mystring[2]
