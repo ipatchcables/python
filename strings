@@ -22,5 +22,10 @@
 
 
 name = "Sam" //reassign
+lastLetter = name
 lastLetter[1:]
-"P" + lastLetter
+"P" + lastLetter 
+
+x = "Hello"
+x.upper() // capitalizes
+x.split() // split string
