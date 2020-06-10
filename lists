@@ -6,3 +6,7 @@ mylist[0] = "ONE ALL CAPS"
 mylist.append("six")
 mylist.pop()
 mylist.pop(0)
+
+new_list = ['a','e','x','d'] //sort in abc order
+num_list = [2,7,3,6]
+new_list.sort()
