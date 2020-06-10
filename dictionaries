@@ -1,0 +1,9 @@
+// return key value pairs - similiar to objects in JS
+myDict = {"key1":"value1", "key2":"value2"}
+myDict["key1"]
+
+prices_lookup = {"apple":2.99,"orange":4.99}
+prices_lookup["apple"]
+
+d = {"k1":123,"k2":[0,1,2],"k3":{"insideKey":100}}
+d["k2"]
