@@ -29,3 +29,10 @@ lastLetter[1:]
 x = "Hello"
 x.upper() // capitalizes
 x.split() // split string
+
+print("The {2} {1} {0}".format("fox", "brown", "quick")) // String formatting
+
+print("The result was {}".format(result)) //Float formating
+
+print(f"Hello his name is {name}") // new way of print format (python3)
+ 
