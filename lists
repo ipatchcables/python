@@ -1,0 +1,8 @@
+// An array in other langauages?
+
+my_list = ["string, 100, 23.3]"]
+mylist= ["one", "two", "three"]
+mylist[0] = "ONE ALL CAPS"
+mylist.append("six")
+mylist.pop()
+mylist.pop(0)
