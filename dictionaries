@@ -7,3 +7,7 @@ prices_lookup["apple"]
 
 d = {"k1":123,"k2":[0,1,2],"k3":{"insideKey":100}}
 d["k2"]
+
+d.keys()
+d.values()
+d.items()
