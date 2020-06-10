@@ -1,4 +1,4 @@
- a = 5
+p a = 5
  a = 10
  a = a + a
  
@@ -30,7 +30,7 @@ x = "Hello"
 x.upper() // capitalizes
 x.split() // split string
 
-print("The {2} {1} {0}".format("fox", "brown", "quick")) // String formatting
+print("The {2} {1} {0}".format("fox", "brown", "quick")) // String interpolation
 
 print("The result was {}".format(result)) //Float formating
 
